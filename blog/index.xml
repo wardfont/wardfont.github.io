@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Ward Fonteyn</title>
+    <link>http://wardfont.github.io/blog/</link>
+    <description>Recent content in Blogs on Ward Fonteyn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="http://wardfont.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://wardfont.github.io/blog/2022-12-15-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wardfont.github.io/blog/2022-12-15-first-post/</guid>
+      <description>Hello!</description>
+    </item>
+    
+  </channel>
+</rss>
